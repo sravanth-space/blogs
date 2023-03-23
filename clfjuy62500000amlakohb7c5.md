@@ -3,6 +3,7 @@ title: "Things to remember about JavaScript ForEach Loop"
 datePublished: Wed Mar 22 2023 15:47:01 GMT+0000 (Coordinated Universal Time)
 cuid: clfjuy62500000amlakohb7c5
 slug: things-to-remember-about-javascript-foreach-loop
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/u2d0BPZFXOY/upload/ea81e9d75f0e3a8c82c4828084090043.jpeg
 tags: javascript
 
 ---
