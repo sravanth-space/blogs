@@ -100,3 +100,14 @@ function foo() {
 
 foo()
 ```
+
+```javascript
+const first = 6 * "JS";
+const second = 6 * "JS";
+console.log(first !== second )//?
+
+// Answer: 
+//In the lines number 9 and 10, a number is multiplied by a string which will return 
+//NaN. Since NaN(not a number) is not equal to anything, not even itself; //true will be 
+//logged to the console. 
+```
