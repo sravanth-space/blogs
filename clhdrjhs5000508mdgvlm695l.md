@@ -3,6 +3,7 @@ title: "CSS Snippets"
 datePublished: Sun May 07 2023 18:44:25 GMT+0000 (Coordinated Universal Time)
 cuid: clhdrjhs5000508mdgvlm695l
 slug: css-snippets
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6JVlSdgMacE/upload/841292b2faaf8597f016278371bd03ff.jpeg
 
 ---
 
