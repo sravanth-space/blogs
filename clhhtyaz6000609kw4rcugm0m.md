@@ -4,6 +4,7 @@ datePublished: Wed May 10 2023 15:03:00 GMT+0000 (Coordinated Universal Time)
 cuid: clhhtyaz6000609kw4rcugm0m
 slug: vs-code-extensions-i-use
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/abqA4tZuSxg/upload/18eed713ce72f9583a74fae7c48ea387.jpeg
+tags: frontend-development, full-stack-development, vscode-extensions, backend-developments
 
 ---
 
